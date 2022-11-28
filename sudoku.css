@@ -52,3 +52,7 @@ hr {
   justify-content: center;
   align-items: center;
 }
+
+.number-selected {
+  background-color: gray;
+}
