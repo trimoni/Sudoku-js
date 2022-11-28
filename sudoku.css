@@ -19,3 +19,12 @@ hr {
   display: flex;
   flex-wrap: wrap;
 }
+
+#digits {
+  width: 450px;
+  height: 50px;
+  background-color: yellow;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
