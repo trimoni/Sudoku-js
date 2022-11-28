@@ -3,7 +3,7 @@ let tileSelected = null
 
 let errors = 0
 
-let board = [
+const board = [
   '--74916-5',
   '2---6-3-9',
   '-----7-1-',
@@ -14,7 +14,7 @@ let board = [
   '67-83----',
   '81--45---'
 ]
-let solution = [
+const solution = [
   '387491625',
   '241568379',
   '569327418',
