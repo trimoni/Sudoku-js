@@ -31,7 +31,7 @@ window.onload = function(){
 }
 
 function setGame(){
-  for(let i = 1; i<=9; i++){
+  for(let i = 1; i <= 9; i++){
     let number = document.createElement('div')
     number.id = i
     number.innerText = i
