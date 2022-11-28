@@ -44,7 +44,7 @@ function setGame(){
       let tile = document.createElement('div')
       tile.id = r.toString() + '=' + c.toString()
       tile.classList.add('tile')
-      document.getElementById('board')
+      document.getElementById('board').append(tile)
     }
   }
 }
