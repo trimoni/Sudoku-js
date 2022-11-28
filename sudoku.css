@@ -24,6 +24,7 @@ hr {
   height: 48px;
   border: 1px solid lightgray;
 
+  /* text */
   font-size: 20px;
   font-weight: bold;
   display: flex;
@@ -38,4 +39,17 @@ hr {
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+}
+
+.number{
+  width: 48px;
+  height: 48px;
+  border: 1px solid black;
+
+  /* text */
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
